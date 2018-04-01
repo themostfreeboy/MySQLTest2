@@ -1,1 +1,2 @@
 # MySQLTest2
+操作MySQL数据库:通过DataGridView控件显示数据库的查询内容
